@@ -17,7 +17,7 @@ def generate_header_text(protocol_name):
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
-#profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+#profile-web-page-url: https://github.com/tahmaseb73/V2ray-Config-Lite
 
 """
     return base_text.format(base64_title=titles.get(protocol_name, ""))
